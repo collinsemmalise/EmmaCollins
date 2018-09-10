@@ -1,1 +1,4 @@
-This is file 2. 
+This is file 2.
+
+Hello Emma :) You're doing great!
+This is an edit by Wei! 
